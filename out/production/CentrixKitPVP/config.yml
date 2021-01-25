@@ -1,0 +1,9 @@
+host: "localhost"
+port: 3306
+database: "database"
+username: "user"
+password: "password"
+#The level key works different! It's based off the amount of kills a player has. So it's divisible by the amount of kills a player has. Since it's set to 240 kills, that means a player will get a
+#level key every 25 levels.
+LevelKeyKillAmount: 240
+KillKeyDropChance: 100

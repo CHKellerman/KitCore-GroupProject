@@ -1,0 +1,6 @@
+main: com.centrixkitpvp.main.CentrixKitPVP
+name: CentrixKitPVP
+version: 1.0.0
+author: IceBlizzard__
+depend:
+- MVdWPlaceholderAPI
